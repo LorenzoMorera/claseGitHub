@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+header{
+    height: 4rem;
+    background-image: linear-gradient(to right, rgb(110, 238, 255), rgb(184, 78, 255));
+}
+
+div{
+    margin: 30px;
+    background-color: black;
+    width: 200px;
+    height: 200px;
+    transform: translate(10px, 20px);
+    transform: rotate(110deg);
+    transform: scale(1);
+
+}
